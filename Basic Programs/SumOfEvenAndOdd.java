@@ -1,4 +1,4 @@
-public class program3{
+public class SumOfEvenAndOdd{
     public static void main(String args[]){
         System.out.println("Odd Numbers : ");
         for(int i=1;i<=100;i+=2){

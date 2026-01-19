@@ -1,5 +1,5 @@
 
-public class program5 {
+public class SumOfAllDigits {
     public static void main(String args[]){
         int n = 100384;
         int sum = 0;

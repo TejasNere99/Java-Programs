@@ -1,4 +1,4 @@
-public class program2 {
+public class PositiveOrNegative {
     public static void main(String args[]){
         int n = 12;
         if(n<0){
